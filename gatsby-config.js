@@ -3,9 +3,10 @@ module.exports = {
     // edit below
     title: `SharpenedMInd`,
     author: `ctobiasz`,
-    description: `A blog dedicated to Mental Health, Mediation and bettering yourself daily.`,
+    description: `A blog dedicated to Mental Health, Meditation and bettering yourself daily.`,
     siteUrl: `https://www.sharpenedmind.com`,
     social: {
+      twitter: `ctobiasz`,
       github: `ctobiasz`,
     },
   },
