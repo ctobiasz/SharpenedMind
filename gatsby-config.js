@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `SharpenedMInd`,
+    title: `SharpenedMind`,
     author: `ctobiasz`,
     description: `A blog dedicated to Mental Health, Meditation and bettering yourself daily.`,
     siteUrl: `https://www.sharpenedmind.com`,
     social: {
-      twitter: `ctobiasz`,
+      twitter: ``,
       github: `ctobiasz`,
     },
   },
